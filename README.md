@@ -64,8 +64,8 @@
 ---
 
 ### 📫 ¿Hablamos?
-- 📧 [profevivitasol@gmail.com | vivisol.plopez@gmail.com]
-- 🌐 [https://www.linkedin.com/in/viviana-poblete-l%C3%B3pez-593867169) 
+- 📧 [Mail](vivisol.plopez@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/viviana-poblete-l%C3%B3pez-593867169) 
 
 ---
 
