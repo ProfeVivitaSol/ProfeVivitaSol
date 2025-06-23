@@ -1,5 +1,5 @@
  ## 👋 ¡Hola! Soy VivitaSol
- ### 💻 Desarrolladora Full Stack | 👩‍🏫 Docente en Tecnología | 🤖 Entusiasta de la Inteligencia Artificial
+ ### 💻 Desarrolladora Full Stack | 👩‍🏫 Docente en Tecnología | 
 
 ✨ Soy una profesional entusiasta de la tecnología, la docencia y la innovación digital, con sólida experiencia en el desarrollo **Frontend**, **Backend, Mobile y Cloud**, y un interés creciente en la **Inteligencia Artificial**, especialmente en su aplicación en **entornos educativos** y **soluciones prácticas**.
 
